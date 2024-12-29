@@ -1,38 +1,38 @@
 # Project-14: Music Player  
 **By Codesphered01010**
 
-## Deskripsi  
-Proyek ini adalah aplikasi **Pemutar Musik** sederhana yang dibangun menggunakan Python dan modul **tkinter** untuk antarmuka grafis, serta **pygame** untuk pemutaran musik. Aplikasi ini memungkinkan pengguna untuk memilih dan memutar file musik dengan format seperti `.mp3`, `.wav`, `.ogg`, dan `.flac`. 
+## Description  
+This project is a simple **Music Player** application built using Python and the **tkinter** module for the graphical user interface, as well as **pygame** for music playback. The application allows users to select and play music files in formats such as `.mp3`, `.wav`, `.ogg`, and `.flac`. 
 
 ---
 
-## Fitur  
+## Features  
 
-1. **Pemutaran Musik**  
-   - Pengguna dapat memilih file musik dan memutarnya.  
+1. **Music Playback**  
+   - Users can select music files and play them.  
 
-2. **Jeda Musik**  
-   - Pengguna dapat menjeda pemutaran musik yang sedang berjalan.  
+2. **Pause Music**  
+   - Users can pause the currently playing music.  
 
-3. **Melanjutkan Musik**  
-   - Pengguna dapat melanjutkan musik yang dijeda sebelumnya.  
+3. **Resume Music**  
+   - Users can resume previously paused music.  
 
-4. **Hentikan Musik**  
-   - Pengguna dapat menghentikan pemutaran musik.
+4. **Stop Music**  
+   - Users can stop the music playback.
 
-5. **Pemilihan File**  
-   - Pengguna dapat memilih file musik dari perangkat mereka menggunakan dialog pemilihan file.
+5. **File Selection**  
+   - Users can choose music files from their device using a file selection dialog.
 
 ---
 
-## Persyaratan  
+## Requirements  
 
-### Versi Python  
-- Pastikan Python 3.x terinstal di sistem Anda.  
+### Python Version  
+- Ensure that Python 3.x is installed on your system.  
 
-### Modul yang Diperlukan  
-- **pygame** untuk menangani pemutaran musik  
-  Instal dengan perintah:  
+### Required Modules  
+- **pygame** for handling music playback  
+  Install it using the following command:  
   ```bash
   pip install pygame
 ### Run Script
